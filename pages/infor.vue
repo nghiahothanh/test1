@@ -1,0 +1,4 @@
+<template>
+
+    <InforPage></InforPage>
+</template>
